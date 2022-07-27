@@ -1,4 +1,4 @@
-import fetch from 'node-fetch';
+import fetch from 'node-fetch-with-proxy';
 import http from 'http';
 import https from 'https';
 
